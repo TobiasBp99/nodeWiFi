@@ -6,17 +6,17 @@ Proyecto desarrolado durante la cursada para la materia **I.D.C.I _Introducción
 
 ## Schematics
 
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/schPwr.jpg)
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/schMcu.jpg)
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/schEsp.jpg)
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/schRelay.jpg)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/blob/master/images/schPwr.png)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/blob/master/images/schMcu.png)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/blob/master/images/schEsp.png)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/blob/master/images/schRelay.png)
 
 ## PCB
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/pcb.png)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/blob/master/images/pcb.png)
 
 ## 3D Model
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/pcb3D.jpg)
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/pcbPanel.jpg)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/blob/master/images/pcb3D.png)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/blob/master/images/pcbPanel.png)
 
 
 
