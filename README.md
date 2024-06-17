@@ -12,7 +12,7 @@ Proyecto desarrolado durante la cursada para la materia **I.D.C.I _Introducción
 ![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/schRelay.jpg)
 
 ## PCB
-![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/pcb.jpg)
+![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/pcb.png)
 
 ## 3D Model
 ![alt text](https://github.com/TobiasBp99/nodeWiFi/tree/master/images/pcb3D.jpg)
