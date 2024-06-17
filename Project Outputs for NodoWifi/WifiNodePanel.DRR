@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WifiNodePanel.PcbDoc   14/6/2024  17:40:07
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WifiNodePanel-RoundHoles.TXT
+ASCII SlotHoles File : WifiNodePanel-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             144       PTH        0.00inch (0.00mm)
+T2      36mil (0.914mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             20        PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Slot              12        PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T6      122mil (3.1mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T7      157mil (4mm)                                              Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              226
+
+Total Processing Time (hh:mm:ss) : 00:00:00

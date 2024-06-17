@@ -1,0 +1,15 @@
+Source PCB Design WifiNodePanel.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NodoWifi.PrjPcb]
+   Generated File[WifiNodePanel-RoundHoles.TXT]
+   Generated File[WifiNodePanel-SlotHoles.TXT]
+   Generated File[WifiNodePanel.LDP]
+   Generated File[WifiNodePanel.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:40:07 On 14/6/2024

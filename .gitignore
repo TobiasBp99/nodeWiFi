@@ -1,0 +1,16 @@
+# Ignore all 
+#* 
+*.log
+
+# Unignore all with extensions *.c *.h *.txt y con Makefile 
+
+
+# Unignore all dirs
+!*/
+
+# ignore all with these names
+
+History/
+__Previews/
+
+
